@@ -1,0 +1,25 @@
+{
+  "name": "angular-webkit-assign",
+  "version": "1.0.0",
+  "description": "Angular JS Framework patched for bug 138038 in iOS webkit",
+  "main": "na.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sky-hugolima/angular-webkit-assign.git"
+  },
+  "keywords": [
+    "angular",
+    "webit",
+    "assign",
+    "patched"
+  ],
+  "author": "hugo.lima@sky.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sky-hugolima/angular-webkit-assign/issues"
+  },
+  "homepage": "https://github.com/sky-hugolima/angular-webkit-assign#readme"
+}
